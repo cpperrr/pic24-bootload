@@ -1,0 +1,10 @@
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Release\bootloader pc v1.0.exe.config
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Release\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Release\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\bootloader pc v1.0.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\WindowsFormsApplication1.CHECKSUM.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\bootloader pc v1.0.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Release\bootloader pc v1.0.pdb

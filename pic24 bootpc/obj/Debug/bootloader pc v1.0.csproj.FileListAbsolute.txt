@@ -1,0 +1,38 @@
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\bootloader pc v1.0.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\bootloader pc v1.0.exe.config
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\bin\Debug\bootloader pc v1.0.exe.config
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\bin\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\bin\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\bootloader pc v1.0.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\boot调试\20190718\WindowsFormsApplication1.5 20190717 0920\obj\Debug\bootloader pc v1.0.csprojResolveAssemblyReference.cache
+D:\work\nandu\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.exe.config
+D:\work\nandu\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.exe
+D:\work\nandu\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.pdb
+D:\work\nandu\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.exe
+D:\work\nandu\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.pdb
+D:\work\nandu\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+D:\work\nandu\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\work\nandu\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\work\nandu\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.exe.config
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.exe
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\bin\Debug\bootloader pc v1.0.pdb
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\pic24bootdev\code\pic24 bootpc\obj\Debug\bootloader pc v1.0.csproj.GenerateResource.Cache

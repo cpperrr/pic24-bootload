@@ -1,0 +1,38 @@
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+E:\work\bootdevelop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\work\WindowsFormsApplication1.2\bin\Debug\WindowsFormsApplication1.exe.config
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.exe
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.pdb
+E:\work\WindowsFormsApplication1.2\bin\Debug\WindowsFormsApplication1.exe
+E:\work\WindowsFormsApplication1.2\bin\Debug\WindowsFormsApplication1.pdb
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\work\WindowsFormsApplication1.2\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\work\cly develop\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.exe.config
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.exe
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.pdb
+D:\work\cly develop\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.exe
+D:\work\cly develop\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.pdb
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\work\cly develop\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.CHECKSUM.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dell\Desktop\新建文件夹\BL_TI15-004-A03乐嘉15串(190717_老IO改)\WindowsFormsApplication1.5\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
